@@ -2,9 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-<<<<<<< HEAD
-setwd.R
-=======
 
-.setwd
->>>>>>> 4e2ab3910f8c0aaa4f09e79c8effbbca079dbfd0
+setwd.R
